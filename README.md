@@ -13,5 +13,5 @@
 </p>
 
 <p>
-    <h5>Learning: Data-Structure</h5>
+    <h5>Learning: Data-Structure \ DOM \ algorihtms \ System Design</h5>
 </p>
