@@ -7,7 +7,7 @@
 <p>
     <ol>
         <li>operator system: Linux Mint 21.2 "Victoria"</li>
-        <li>code editor: Neovim</li>
+        <li>code editor: Neovim \ VSCode </li>
         <li>terminal emulator: wezterm</li>
         <li>language: javascript \ typescript \ c++ \ c \ java \ rust</li>
         <li>tools: utools</li>
