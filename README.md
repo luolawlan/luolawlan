@@ -11,6 +11,7 @@
         <li>terminal emulator: wezterm</li>
         <li>language: javascript \ typescript \ c++ \ c \ java \ rust \ lua</li>
         <li>working tools: utools</li>
+        <li>email: luolawlan@outlook.com</li>
     </ol>
 </p>
 
