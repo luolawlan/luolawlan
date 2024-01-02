@@ -18,11 +18,11 @@
 <p>
     <h5>Learning: Data-Structure \ DOM \ algorihtms \ System Design</h5>
     
-    <ul>
+    <ol>
         <li>complete my wezterm configure files.</li>
         <li>complete github machine.nvim repo.</li>
         <li>learn english to working.</li>
         <li>c++ and c computer language.</li>
         <li>linux operating system.</li>
-    </ul>     
+    </ol>     
 </p>
