@@ -22,13 +22,3 @@
 ---
 
 <h1>I AM DOING !!!</h1>
-
-<p id="doing">
-    <ol>
-        <li>complete my wezterm configure files.</li>
-        <li>complete github machine.nvim repo.</li>
-        <li>learn english to working.</li>
-        <li>c++ and c computer language.</li>
-        <li>linux operating system.</li>
-    </ol>
-</p>
